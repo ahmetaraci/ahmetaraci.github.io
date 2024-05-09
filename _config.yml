@@ -18,8 +18,8 @@ title: Muhammet Ahmet ARACI # the main title
 
 tagline: GIS Developer - Specialist # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >-
+  I work as a GIS Developer and GIS Specialist. This website serves as a platform to share my projects, experiences, and other information related to GIS technology. I have a keen interest in topics such as map-based applications, geographic data analysis, and remote sensing, and I share my experiences and knowledge in these areas here. You can find my professional services, projects, and writings on geographic information systems (GIS) on this site.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -80,7 +80,7 @@ avatar: /assets/img/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: /assets/img/social-preview.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
