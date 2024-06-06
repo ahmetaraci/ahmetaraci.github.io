@@ -3,54 +3,48 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Hakkımda
+# About Me
 
-Merhaba, ben Muhammet Ahmet ARACI. GIS Developer ve Specialist olarak Türkiye'de çalışıyorum.
+Hello, I am Muhammet Ahmet ARACI. I work as a GIS Developer and Specialist in Turkey.
 
-## İlgi Alanlarım
+## My Interests
 
-- Harita tabanlı uygulamalar geliştirme
-- Coğrafi veri analizi
-- Uzaktan algılama teknolojileri
-- Yazılım geliştirme
+- Developing map-based applications
+- Geographic data analysis
+- Remote sensing technologies
+- Software development
 
-## Deneyimlerim
+## My Experiences
 
 ### BOTAŞ
 
-- _GIS Developer_ (Eylül 2021 - Şu Anda)
-- Ankara, Türkiye
+- _GIS Developer_ (September 2021 - Present)
+- Ankara, Turkey
 
 ### NETCAD YAZILIM A.Ş.
 
-- _Geographic Information System Specialist_ (Ekim 2020 - Eylül 2021)
-- İstanbul, Türkiye
+- _Geographic Information System Specialist_ (October 2020 - September 2021)
+- Istanbul, Turkey
 
-### İstanbul Büyükşehir Belediyesi
+### Istanbul Metropolitan Municipality
 
-- _Geographic Information System Specialist_ (Nisan 2016 - Mayıs 2020)
-- İstanbul, Türkiye
+- _Geographic Information System Specialist_ (April 2016 - May 2020)
+- Istanbul, Turkey
 
-### Nebula Mühendislik
+### Nebula Engineering
 
-- _Geographic Information System Specialist_ (Temmuz 2015 - Nisan 2016)
-- İstanbul, Türkiye
+- _Geographic Information System Specialist_ (July 2015 - April 2016)
+- Istanbul, Turkey
 
-## Yeteneklerim
+## My Skills
 
 <div align="left">
  
 </div>
 
-## Hedeflerim
-
-- Yeni teknolojiler öğrenmek
-- İyi bir GIS Developer olmak
-- Projeler geliştirerek topluma katkıda bulunmak
-
 ---
 
-Passionate about GIS Projects with Data Management, Spatial analyze and Gis Development, I have years of experience and many clients are happy with the projects carried out.
+Passionate about GIS Projects with Data Management, Spatial analysis, and GIS Development, I have years of experience and many clients are happy with the projects carried out.
 
 **Data Management**: My expertise in data management allows me to efficiently handle various types of data using powerful tools such as QGIS, ArcGIS, and Google Earth. I not only optimize data collection and storage processes but also specialize in data analysis and mapping. Working diligently to develop data management solutions tailored to my clients, I offer a unique approach to every project. By providing personalized data management solutions, I ensure the effective management of your data.
 
