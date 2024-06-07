@@ -1,7 +1,7 @@
 ---
 title: Docker ile Ubuntu Server'da Geoserver Kurulumu
-date: 28/06/2023 12:00:00 +0300
-categories: [linux, docker, geoserver]
+date: 13/05/2024 12:00:00 +0300
+categories: [turkce]
 tags: [docker, ubuntu, geoserver]
 ---
 
