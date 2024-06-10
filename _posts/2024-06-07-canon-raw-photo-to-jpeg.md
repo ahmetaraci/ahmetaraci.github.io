@@ -53,11 +53,14 @@ print("Dönüştürme işlemi tamamlandı.")
 
 ## Scripti Nasıl Kullanırız?
 
-    1. Girdi ve Çıktı Klasörlerini Belirleyin: Yukarıdaki scriptte, input_folder ve output_folder değişkenlerinin değerlerini kendi bilgisayarınızdaki klasör yollarıyla değiştirin. input_folder, RAW dosyalarınızın bulunduğu klasör; output_folder ise dönüştürülen JPEG dosyalarının kaydedileceği klasör olacak.
+1. **Girdi ve Çıktı Klasörlerini Belirleyin:**
+   Yukarıdaki scriptte, `input_folder` ve `output_folder` değişkenlerinin değerlerini kendi bilgisayarınızdaki klasör yollarıyla değiştirin. `input_folder`, RAW dosyalarınızın bulunduğu klasör; `output_folder` ise dönüştürülen JPEG dosyalarının kaydedileceği klasör olacak.
 
-    2. Scripti Çalıştırın: Python scriptini çalıştırarak dönüşüm işlemini başlatın. Script, belirttiğiniz klasördeki tüm CR2 dosyalarını bulacak ve bunları JPEG formatına dönüştürerek belirttiğiniz çıktı klasörüne kaydedecektir.
+2. **Scripti Çalıştırın:**
+   Python scriptini çalıştırarak dönüşüm işlemini başlatın. Script, belirttiğiniz klasördeki tüm CR2 dosyalarını bulacak ve bunları JPEG formatına dönüştürerek belirttiğiniz çıktı klasörüne kaydedecektir.
 
-    3. Dönüştürme Kalitesi: Scriptteki quality parametresi ile JPEG kalitesini ayarlayabilirsiniz. Bu değer 0 ile 100 arasında bir değerdir. 100 en yüksek kaliteyi, 0 ise en düşük kaliteyi temsil eder.
+3. **Dönüştürme Kalitesi:**
+   Scriptteki `quality` parametresi ile JPEG kalitesini ayarlayabilirsiniz. Bu değer 0 ile 100 arasında bir değerdir. 100 en yüksek kaliteyi, 0 ise en düşük kaliteyi temsil eder.
 
 ## Sonuç
 
