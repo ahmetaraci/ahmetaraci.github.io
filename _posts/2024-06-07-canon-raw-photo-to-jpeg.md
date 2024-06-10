@@ -5,15 +5,15 @@ categories: [turkce]
 tags: [python, script]
 ---
 
-# RAW Fotoğraflarınızı Python ile JPEG'e Dönüştürmek
+## RAW Fotoğraflarınızı Python ile JPEG'e Dönüştürmek
 
-Merhaba fotoğraf severler! Eğer siz de benim gibi Canon marka fotoğraf makinenizden çıkan RAW formatındaki (CR2) fotoğrafları JPEG formatına dönüştürmekte zorlanıyorsanız, doğru yerdesiniz. Bu yazıda, Python kullanarak bu dönüşümü nasıl yapabileceğinizi anlatacağım. Üstelik sadece birkaç satır kod yazarak!
+Merhaba, eğer siz de benim gibi Canon marka fotoğraf makinenizden çıkan RAW formatındaki (CR2) fotoğrafları JPEG formatına dönüştürmekte zorlandıysanız blog ilginizi çekecektir. Bu yazıda, Python kullanarak bu dönüşümü nasıl yapabileceğinizi anlatacağım. Üstelik sadece birkaç satır kod yazarak!
 
-## Neden Python?
+### Neden Python?
 
 Fotoğraf düzenleme programları bazen çok karmaşık ve kafa karıştırıcı olabiliyor. Ancak bir yazılımcı olarak, kod yazmak benim için çok daha rahat ve konforlu. Python, sunduğu basit ve güçlü kütüphanelerle bu işi kolayca halletmemizi sağlıyor. Gelin, adım adım bu süreci nasıl gerçekleştireceğimize bakalım.
 
-## Gerekli Kütüphaneler
+### Gerekli Kütüphaneler
 
 Öncelikle, bu işlemi gerçekleştirmek için PIL (Pillow) kütüphanesine ihtiyacımız var. Bu kütüphaneyi yüklemek oldukça basit:
 
@@ -21,7 +21,7 @@ Fotoğraf düzenleme programları bazen çok karmaşık ve kafa karıştırıcı
 pip install pillow
 ```
 
-# Python Scriptimiz
+## Python Scriptimiz
 
 İşte RAW formatındaki (CR2) fotoğraflarınızı JPEG formatına dönüştüren Python scripti:
 
@@ -51,7 +51,7 @@ print("Dönüştürme işlemi tamamlandı.")
 
 ```
 
-# Scripti Nasıl Kullanırız?
+## Scripti Nasıl Kullanırız?
 
     1. Girdi ve Çıktı Klasörlerini Belirleyin: Yukarıdaki scriptte, input_folder ve output_folder değişkenlerinin değerlerini kendi bilgisayarınızdaki klasör yollarıyla değiştirin. input_folder, RAW dosyalarınızın bulunduğu klasör; output_folder ise dönüştürülen JPEG dosyalarının kaydedileceği klasör olacak.
 
@@ -59,6 +59,6 @@ print("Dönüştürme işlemi tamamlandı.")
 
     3. Dönüştürme Kalitesi: Scriptteki quality parametresi ile JPEG kalitesini ayarlayabilirsiniz. Bu değer 0 ile 100 arasında bir değerdir. 100 en yüksek kaliteyi, 0 ise en düşük kaliteyi temsil eder.
 
-# Sonuç
+## Sonuç
 
-Gördüğünüz gibi, Python ile RAW fotoğraflarınızı JPEG formatına dönüştürmek oldukça basit. Bu yöntemi kullanarak, profesyonel görüntü işleme uygulamalarıyla uğraşmadan fotoğraflarınızı dilediğiniz formata çevirebilirsiniz. Umarım bu yazı sizin için faydalı olmuştur. Herhangi bir sorunuz olursa, yorumlarda benimle paylaşmaktan çekinmeyin!
+Gördüğünüz gibi, Python ile RAW fotoğraflarınızı JPEG formatına dönüştürmek oldukça basit. Bu yöntemi kullanarak, profesyonel görüntü işleme uygulamalarıyla uğraşmadan fotoğraflarınızı dilediğiniz formata çevirebilirsiniz. Umarım bu yazı sizin için faydalı olmuştur. Herhangi bir sorunuz olursa, benimle iletişime geçmekten çekinmeyin!
