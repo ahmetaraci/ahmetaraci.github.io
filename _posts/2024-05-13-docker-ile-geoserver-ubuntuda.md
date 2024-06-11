@@ -5,8 +5,6 @@ categories: [turkce]
 tags: [docker, ubuntu, geoserver]
 ---
 
-# Docker ile Ubuntu Server'da Geoserver Kurulumu
-
 Bu blog yazısında, yeni kurulmuş bir Ubuntu sunucuda Docker kullanarak Geoserver'ı nasıl kuracağımızı adım adım göstereceğim.
 
 ## Adım 1: Sunucuya SSH Erişimi
