@@ -1,6 +1,6 @@
 ---
 title: Oh My Posh ile Windows 11 Terminalinizi Renklendirin
-date: 07/06/2024 17:00:00 +0300
+date: 11/06/2024 17:00:00 +0300
 categories: [turkce]
 tags: [OhMyPosh, PowerShell, Kişiselleştirme]
 ---
