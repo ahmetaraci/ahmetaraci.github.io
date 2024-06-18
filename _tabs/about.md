@@ -3,40 +3,38 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me
+Hello, I'm Muhammet Ahmet ARACI, a GIS Developer and Specialist working in Turkey.
 
-Hello, I am Muhammet Ahmet ARACI. I work as a GIS Developer and Specialist in Turkey.
-
-## My Interests
+## Interests
 
 - Developing map-based applications
 - Geographic data analysis
 - Remote sensing technologies
 - Software development
 
-## My Experiences
+## Experience
 
 ### BOTAŞ
 
-- _GIS Developer_ (September 2021 - Present)
+- _GIS Developer_ **(September 2021 - Present)**
 - Ankara, Turkey
 
 ### NETCAD YAZILIM A.Ş.
 
-- _Geographic Information System Specialist_ (October 2020 - September 2021)
-- Istanbul, Turkey
+- _Geographic Information System Specialist_ **(October 2020 - September 2021)**
+- İstanbul, Turkey
 
 ### Istanbul Metropolitan Municipality
 
-- _Geographic Information System Specialist_ (April 2016 - May 2020)
-- Istanbul, Turkey
+- _Geographic Information System Specialist_ **(April 2016 - May 2020)**
+- İstanbul, Turkey
 
 ### Nebula Engineering
 
-- _Geographic Information System Specialist_ (July 2015 - April 2016)
-- Istanbul, Turkey
+- _Geographic Information System Specialist_ **(July 2015 - April 2016)**
+- İstanbul, Turkey
 
-## My Skills
+## Skills
 
 <div align="left">
  
@@ -44,7 +42,7 @@ Hello, I am Muhammet Ahmet ARACI. I work as a GIS Developer and Specialist in Tu
 
 ---
 
-Passionate about GIS Projects with Data Management, Spatial analysis, and GIS Development, I have years of experience and many clients are happy with the projects carried out.
+Passionate about GIS Projects with Data Management, Spatial analyze and Gis Development, I have years of experience and many clients are happy with the projects carried out.
 
 **Data Management**: My expertise in data management allows me to efficiently handle various types of data using powerful tools such as QGIS, ArcGIS, and Google Earth. I not only optimize data collection and storage processes but also specialize in data analysis and mapping. Working diligently to develop data management solutions tailored to my clients, I offer a unique approach to every project. By providing personalized data management solutions, I ensure the effective management of your data.
 
