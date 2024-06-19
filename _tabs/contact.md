@@ -28,6 +28,19 @@ If you'd like to reach me directly through a form, please fill out the form belo
   function onSubmit(token) {
     document.getElementById("contact-form").submit();
   }
+
+  function executeRecaptcha(e) {
+    e.preventDefault();
+    grecaptcha.ready(function() {
+      grecaptcha.execute('{{ site.recaptcha.site_key }}', {action: 'submit'}).then(function(token) {
+        onSubmit(token);
+      });
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('contact-form').addEventListener('submit', executeRecaptcha);
+  });
 </script>
 
 {% endif %}
@@ -42,7 +55,7 @@ If you'd like to reach me directly through a form, please fill out the form belo
     <textarea name="message" rows="5" required style="width: 100%; padding: 10px; margin-bottom: 20px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; font-size: 16px;"></textarea>
   </label>
   {% if site.recaptcha.enabled %}
-  <button class="g-recaptcha" 
+  <button type="submit" class="g-recaptcha" 
           data-sitekey="{{ site.recaptcha.site_key }}" 
           data-callback='onSubmit' 
           data-action='submit' 
