@@ -206,4 +206,4 @@ jekyll-archives:
 recaptcha:
   site_key: "6LfFxPwpAAAAAHouB5B0jOItC9mQ9Xnuihi7tkt3"
   secret_key: "6LfFxPwpAAAAABQM2A7m2Rt6pEqgoPDHjo65-SHI"
-  enabled: true # Set to false for development
+  enabled: false # Set to false for development

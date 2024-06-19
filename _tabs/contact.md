@@ -27,6 +27,7 @@ If you'd like to reach me directly through a form, please fill out the form belo
 <script>
   function onSubmit(token) {
     document.getElementById("contact-form").submit();
+    console.log("emmolu")
   }
 
   function executeRecaptcha(e) {
