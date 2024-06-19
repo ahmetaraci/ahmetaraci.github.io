@@ -11,6 +11,7 @@ Hello! You can reach out to me using the following methods.
 ### Contact Information
 
 - **Email**: [muhammetahmet.araci@gmail.com](mailto:muhammetahmet.araci@gmail.com)
+- **Microsoft Teams**: [muhammetahmet.araci@outlook.com](mailto:muhammetahmet.araci@outlook.com)
 
 ### Social Media
 
@@ -27,7 +28,6 @@ If you'd like to reach me directly through a form, please fill out the form belo
 <script>
   function onSubmit(token) {
     document.getElementById("contact-form").submit();
-    console.log("emmolu")
   }
 
   function executeRecaptcha(e) {
