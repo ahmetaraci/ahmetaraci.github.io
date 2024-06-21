@@ -13,3 +13,5 @@ Blogumda yazılım geliştirme ve Coğrafi Bilgi Sistemlerine dair yazılar payl
 [Blogu Ziyaret Et](https://ahmetaraci.github.io)
 
 Görüşleriniz için blog içerisindeki iletişim sayfasını kullanabilirsiniz.
+
+[İletişim](https://ahmetaraci.github.io/contact/)
