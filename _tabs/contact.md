@@ -1,6 +1,6 @@
 ---
 icon: fas fa-address-book
-order: 4
+order: 6
 layout: page
 title: Contact Me
 permalink: /contact/
