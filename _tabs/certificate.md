@@ -15,3 +15,5 @@ Course Trainer : [Burak DUMAN](https://www.linkedin.com/in/burak-duman-09a34971/
 ![Sertifika](/assets/img/java_certificate.png)
 
 ---
+
+Test
