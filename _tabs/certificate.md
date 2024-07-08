@@ -12,7 +12,6 @@ This page contains only the certificates of the courses I attended in person.
 
 #### Certificate List
 
-
 - [Introduction to Programming with Java](#introduction-to-programming-with-java)
 - [Java Object Oriented Programming](#java-object-oriented-programming)
 - [Introduction To Java web Programming](#introduction-to-java-web-programming)
@@ -101,6 +100,8 @@ Organization Offering The Course : [Infopark Bilgi Teknolojileri A.Ş.](https://
 **Description:**
 This advanced course focused on PostgreSQL development techniques. Topics included advanced SQL, PL/pgSQL programming, performance tuning, and database optimization strategies.
 ![Sertifika](/assets/img/postgres_developer.png)
+
+---
 
 ### Developing ASP .NET Core Web Applications
 
