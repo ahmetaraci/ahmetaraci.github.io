@@ -1,8 +1,8 @@
 ---
 title: CR2 uzantılı RAW fotoğrafların JPEG'e dönüşümünde Python kullanmak
 date: 07/06/2024 17:00:00 +0300
-categories: [turkce]
-tags: [python, script]
+categories: [Türkçe]
+tags: [Python, Script]
 ---
 
 ## RAW Fotoğraflarınızı Python ile JPEG'e Dönüştürmek

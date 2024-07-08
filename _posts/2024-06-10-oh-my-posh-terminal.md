@@ -1,8 +1,8 @@
 ---
 title: Oh My Posh ile Windows 11 Terminalinizi Renklendirin
 date: 11/06/2024 10:00:00 +0300
-categories: [turkce]
-tags: [OhMyPosh, PowerShell, Kişiselleştirme]
+categories: [Türkçe, Rehber]
+tags: [OhMyPosh, PowerShell, Kişiselleştirme, Terminal]
 ---
 
 Youtube'da birçok developerda gördüğüm renkli terminali denemek için kolları sıvıyorum, deneyimlerimi size aktarıyorum. Bu yazıda, Oh My Posh'un ne olduğunu, neden ihtiyacımız olduğunu ve nasıl yükleneceğini adım adım anlatacağım.
